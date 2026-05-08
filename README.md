@@ -1,5 +1,5 @@
-View the project live 
-https://codesandbox.io/p/sandbox/github/Aaradhya0408/Checkmate
+View the project 
+https://codesandbox.io/p/sandbox/github/Aaradhya0408/Chess_Project
 
 ## Features
 
