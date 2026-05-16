@@ -1,6 +1,5 @@
 View the project 
-https://codesandbox.io/p/sandbox/github/Aaradhya0408/Chess_Project
-
+https://checkmate-n3sec60xd-aaradhya-gargs-projects.vercel.app
 ## Features
 
 - Fully functional chessboard with draggable pieces.
